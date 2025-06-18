@@ -3,5 +3,5 @@ This is the final project of Group 5 (Mohammed Anhan, Sreedan S kumnar, Mukesh S
 
 Team members:
 Mohammed Anhan,
-Sreedan S kumnar,
+Sreedan S kumar,
 Mukesh S
